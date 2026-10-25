@@ -1,0 +1,9 @@
+(
+echo .vs/
+echo bin/
+echo obj/
+echo *.user
+echo *.suo
+echo *.pdb
+echo packages/
+) > .gitignore
